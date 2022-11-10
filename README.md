@@ -1,6 +1,6 @@
 # Javascript-small-projects
 
-Is all abot practicing Javascript creating small projects using 
+This section is all about practicing Javascript creating small projects using 
 <br>Variables
 <br>If Statements
 <br>Operators
