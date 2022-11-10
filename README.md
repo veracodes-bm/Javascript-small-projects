@@ -25,5 +25,5 @@ This section is all about practicing Javascript creating small projects using
 <br>setInterval()
 <br> And more...
 
-<br>I have gathered these projects following Bootcamps and online tutorials
+<br>I have gathered these projects using coding Bootcamps and online tutorials
 <br>Enjoy :)
