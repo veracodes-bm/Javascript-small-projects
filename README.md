@@ -1,7 +1,7 @@
 # Javascript-small-projects
 
 Is all abot practicing Javascript creating small projects using 
-Variables
+<br>Variables
 If Statements
 Operators
 for loops
